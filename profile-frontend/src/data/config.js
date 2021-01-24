@@ -1,4 +1,3 @@
-
 module.exports = {
   // TODO: change your profile information here
   name: "Aman Ostwal",
